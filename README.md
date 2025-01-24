@@ -48,12 +48,6 @@
 - Achieved 98% memory efficiency through optimized allocation
 - Validated with Valgrind and custom memory profiler
 
-### **Tideman** - Ranked Choice Voting
-**Tech Stack**: C • Graph Theory • Recursion • Unit Testing  
-- Developed cycle detection algorithm using depth-first search
-- Implemented lock pairs mechanism with O(n²) complexity
-- Integrated custom test framework with 100% coverage
-
 ## Getting Started
 
 ### Prerequisites
