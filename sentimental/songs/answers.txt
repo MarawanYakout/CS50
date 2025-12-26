@@ -1,0 +1,12 @@
+Average User Energy is 0.65906
+This means the user on average listens to higher energy songs or louder ones
+
+Average User Valence is 0.48443
+This means the User usally lisitens to both happy and sad songs meaning his emotions influence thier choice of music.
+
+Average User danceability is 0.71646
+This means that the user listens to dancable music more or louder music
+
+Audio Aura Category:
+
+User would be in the Blues Aura whom are wistful or emotional, and this hue reflects listeners who seek out music to feel their feelings out loud. The reason is the influence of emotion on User desisions and the influence of energy and dancability towards louder music.

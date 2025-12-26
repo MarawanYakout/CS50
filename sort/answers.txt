@@ -1,0 +1,20 @@
+sort1 uses: Bubble Sort
+
+How do you know?: it was the fastest time during the sorted list [ omega n]
+
+for unsorted array it tames 6.482s
+for sorted 1.103s
+
+sort2 uses: Merge sort
+
+How do you know?: it was the fastest time on both unsorted and sorted [n log n]
+
+for unsorted 0.971s
+for sorted 0.899s
+
+sort3 uses: Selection Sort
+
+How do you know?: it was the only one left / it was the slowest in both [Omega n^2]
+
+for unsorted 3.140s
+for sorted 2.804s
